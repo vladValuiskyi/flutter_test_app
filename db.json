@@ -8,6 +8,9 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "users": [
+    {"id": 1, "lat": "adsdaawd", "lng": "1212"}
+    ],
   "profile": {
     "name": "typicode"
   }
