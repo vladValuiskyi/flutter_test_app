@@ -9,7 +9,8 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "users": [
-    {"id": 1, "lat": "adsdaawd", "lng": "1212"}
+    {"id": 1, "lat": 25.23455, "lng": 26.26624},
+    {"id": 2, "lat": 27.12345, "lng": 43.54321}
     ],
   "profile": {
     "name": "typicode"
